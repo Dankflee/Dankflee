@@ -26,9 +26,6 @@ Check some tools/apps I've made:
 - 💬 
 
 ---
-![](https://komarev.com/ghpvc/?username=YasiOnFire&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@2d17ce26-1611-4757-bf95-fdb0da64fc74)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasiOnFire&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=YasiOnFire&theme=tokyonight" width="50%"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasiOnFire&layout=compact&theme=tokyonight)](https://yasio.pl)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dankflee&theme=tokyonight-duo&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 ---
