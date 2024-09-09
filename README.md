@@ -28,4 +28,6 @@ Check some tools/apps I've made:
 ---
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dankflee&theme=tokyonight-duo&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danflee"/>
+
 ---
